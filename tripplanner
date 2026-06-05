@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bali Wedding Adventure | June 18 - July 1, 2026</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: Georgia, serif; line-height: 1.6; color: #2c3e50; background: #fff; max-width: 900px; margin: 0 auto; padding: 40px 20px; }
+        .header { text-align: center; margin-bottom: 40px; border-bottom: 3px solid #e67e22; padding-bottom: 20px; }
+        .header h1 { font-size: 2.5em; color: #e67e22; margin-bottom: 10px; font-weight: 300; }
+        .dates { font-size: 1.2em; color: #7f8c8d; font-style: italic; }
+        .section { margin-bottom: 50px; }
+        .section-header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 15px 20px; margin-bottom: 20px; border-radius: 8px; }
+        .section-header h2 { font-size: 1.8em; font-weight: 400; }
+        .location-info { background: #ecf0f1; padding: 15px; border-left: 4px solid #3498db; margin-bottom: 20px; border-radius: 4px; }
+        .location-info h3 { color: #2980b9; margin-bottom: 8px; font-size: 1.3em; }
+        .location-info p { margin: 5px 0; color: #34495e; }
+        .subsection { margin: 25px 0; }
+        .subsection h4 { color: #e67e22; font-size: 1.2em; margin-bottom: 12px; border-bottom: 2px solid #f39c12; padding-bottom: 5px; }
+        .card { background: #fff; border: 1px solid #ddd; padding: 15px; margin: 10px 0; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        .card strong { color: #2c3e50; display: block; margin-bottom: 8px; font-size: 1.05em; }
+        .card p { margin: 4px 0; color: #34495e; }
+        .flight-box { background: #fff; border: 2px solid #3498db; padding: 15px; margin: 15px 0; border-radius: 8px; }
+        .flight-box h4 { color: #2980b9; margin-bottom: 10px; }
+        .tip { background: #e8f8f5; border-left: 4px solid #1abc9c; padding: 12px 15px; margin: 10px 0; border-radius: 4px; }
+        .tip strong { color: #16a085; }
+        ul { padding-left: 20px; margin: 10px 0; }
+        li { margin: 8px 0; }
+        .note { color: #666; font-style: italic; margin: 6px 0; font-size: 0.95em; }
+        .footer { text-align: center; margin-top: 50px; padding: 30px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 8px; }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <h1>🌴 BALI WEDDING ADVENTURE 🌴</h1>
+    <div class="dates">June 18 – July 1, 2026 | Caitlyn & Al Richardson</div>
+</div>
+
+<!-- OUTBOUND FLIGHTS -->
+<div class="section">
+    <div class="section-header"><h2>✈️ Outbound Flights</h2></div>
+    <div class="flight-box">
+        <h4>Thursday, June 18 – Boston to Hong Kong</h4>
+        <p><strong>CX 811</strong> | Departs BOS: 1:45 AM | Arrives HKG: 5:00 AM (June 19)</p>
+        <p><strong>Booking Reference:</strong> FCN6Y8</p>
+        <div class="tip"><strong>💡 Tip:</strong> Sleep on the plane — you arrive early morning Hong Kong time</div>
+    </div>
+    <div class="flight-box">
+        <h4>Friday, June 19 – Hong Kong to Bali</h4>
+        <p><strong>CX 785</strong> | Departs HKG: 10:00 AM | Arrives DPS: 3:00 PM</p>
+        <p><strong>Booking Reference:</strong> FCN6Y8</p>
+        <div class="tip"><strong>💡 5-hour layover:</strong> Grab dim sum, stretch your legs, use the Plaza Premium Lounge</div>
+        <div class="tip"><strong>🚗 Airport transfer pre-booked:</strong> DPS → Maison Aurelia Sanur</div>
+    </div>
+</div>
+
+<!-- SANUR -->
+<div class="section">
+    <div class="section-header"><h2>🌅 SANUR | June 19–21</h2></div>
+    <div class="location-info">
+        <h3>Maison Aurelia Sanur, Bali - by Préférence</h3>
+        <p><strong>Check-in:</strong> Friday, June 19, 2:00 PM | <strong>Check-out:</strong> Sunday, June 21, 12:00 PM</p>
+        <p><strong>Room:</strong> Camellia Suite, 1 King | 2 nights</p>
+        <p><strong>Confirmation:</strong> 2374834466</p>
+        <p><strong>Address:</strong> Jl. Danau Tamblingan No.140, Sanur, Denpasar, Bali</p>
+        <p><strong>Phone:</strong> +62 361 4721111</p>
+        <p><strong>Transport:</strong> Grab or Gojek recommended for local trips around Sanur</p>
+    </div>
+
+    <div class="subsection">
+        <h4>Day-by-Day</h4>
+        <div class="card">
+            <strong>📅 June 19 — Arrival Day</strong>
+            <ul>
+                <li><strong>3:00 PM</strong> — Check in, freshen up, unpack</li>
+                <li><strong>4:00 PM</strong> — Stroll the Sanur Beach Promenade</li>
+                <li><strong>5:30 PM</strong> — Coffee at Genius Café</li>
+                <li><strong>7:00 PM</strong> — Dinner at Warung Baby Monkeys</li>
+                <li><strong>8:30 PM</strong> — Sindhu Night Market (Thu–Sun only, from 6 PM)</li>
+            </ul>
+        </div>
+        <div class="card">
+            <strong>📅 June 20 — Full Sanur Day</strong>
+            <ul>
+                <li><strong>9:00 AM</strong> — 🧘 <strong>Koa Shala — BOOKED ✅</strong><br>
+                    Full wellness morning for Caitlyn & Al:<br>
+                    • Yoga Class • 90-min Body Massage • Ylang Ylang, Coconut & Vanilla Sugar Body Scrub • K-Beauty Facial • Indian Hair Oil Treatment<br>
+                    koashala.com | WhatsApp: +62 812-3946-0683</li>
+                <li><strong>1:00 PM</strong> — Late lunch at Over the Moon Café or nearby warung</li>
+                <li><strong>3:00 PM</strong> — Beach or pool time</li>
+                <li><strong>5:00 PM</strong> — Visit Bali Sea Turtle Society (Jl. Tirta Ening No.1 | Free | open until 5 PM)</li>
+                <li><strong>7:30 PM</strong> — Dinner at Warung Little Bird</li>
+            </ul>
+        </div>
+        <div class="card">
+            <strong>📅 June 21 — Checkout → Nusa Lembongan</strong>
+            <ul>
+                <li><strong>7:30 AM</strong> — Leisurely breakfast</li>
+                <li><strong>9:00 AM</strong> — Final morning walk or hotel pool</li>
+                <li><strong>11:30 AM</strong> — Checkout</li>
+                <li><strong>12:30 PM</strong> — Rocky Fast Cruise hotel pickup (12:30–12:45 PM)</li>
+                <li><strong>2:00 PM</strong> — 🚤 Fast boat departs Sanur → Lembongan</li>
+                <li><strong>2:40 PM</strong> — Arrive Nusa Lembongan, transfer to Villa Sayang</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="subsection">
+        <h4>Wellness</h4>
+        <div class="card">
+            <strong>Koa Shala — BOOKED ✅</strong>
+            <p>koashala.com | WhatsApp: +62 812-3946-0683 | June 20 at 9:00 AM</p>
+        </div>
+    </div>
+
+    <div class="subsection">
+        <h4>Where to Eat</h4>
+        <div class="card">
+            <ul>
+                <li><strong>☕ Genius Café</strong> — Healthy bowls, smoothies, great coffee</li>
+                <li><strong>🌿 Warung Baby Monkeys</strong> — Authentic Indonesian, beachfront</li>
+                <li><strong>🐦 Warung Little Bird</strong> — Farm-to-table, romantic</li>
+                <li><strong>🥞 Over the Moon Café</strong> — Western + Balinese brunch</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<!-- NUSA LEMBONGAN -->
+<div class="section">
+    <div class="section-header"><h2>🏝️ NUSA LEMBONGAN | June 21–23</h2></div>
+    <div class="location-info">
+        <h3>Villa Sayang</h3>
+        <p><strong>Check-in:</strong> Sunday, June 21 after 2:00 PM | <strong>Check-out:</strong> Tuesday, June 23 before 10:00 AM</p>
+        <p><strong>Room:</strong> 3-Bedroom Villa with Private Pool | 2 nights</p>
+        <p><strong>Address:</strong> Jalan Raya Jungutbatu, Nusa Lembongan, Bali 80771</p>
+        <p><strong>Phone:</strong> +62 812-4658-0451 | villasayang.com | WhatsApp: +62 812-3956-7070</p>
+        <p><strong>Transport:</strong> Komang (local driver) | WhatsApp: +62 819-3434-4420 | Grab/Gojek also available on island</p>
+    </div>
+
+    <div class="subsection">
+        <h4>Fast Boats — Confirmed ✅</h4>
+        <div class="card">
+            <strong>🚤 Rocky Fast Cruise — Sanur to Lembongan (June 21)</strong>
+            <p><strong>Departure:</strong> Sanur 2:00 PM | <strong>Arrives:</strong> Lembongan 2:40 PM</p>
+            <p><strong>Hotel Pickup:</strong> Maison Aurelia Sanur — 12:30–12:45 PM</p>
+            <p><strong>Drop-off:</strong> Villa Sayang, Jalan Raya Jungutbatu</p>
+            <p><strong>Participants:</strong> Caitlyn J Richardson & Alex Richardson</p>
+            <p><strong>Booking Code:</strong> #41776892152 | <strong>Voucher:</strong> RFC260422LMWE</p>
+            <p><strong>Contact:</strong> reservations@rockyfastcruise.com | WhatsApp: +62 813-3909-9963</p>
+            <div class="tip"><strong>💡 Important:</strong> Be ready for pickup at 12:30 PM sharp. Max 2 bags per person, 25kg total. No electronics in check-in baggage.</div>
+        </div>
+        <div class="card">
+            <strong>🚤 Rocky Fast Cruise — Lembongan to Sanur + Transfer to Ubud (June 23)</strong>
+            <p><strong>Departure:</strong> Lembongan 1:00 PM | <strong>Arrives:</strong> Sanur 1:40 PM</p>
+            <p><strong>Hotel Pickup:</strong> Villa Sayang — 11:30 AM</p>
+            <p><strong>Drop-off:</strong> Suara Alam Ubud Villa, Jl. Tirta Tawar No.88, Petulu</p>
+            <p><strong>Participants:</strong> Caitlyn J Richardson & Alex Richardson</p>
+            <p><strong>Booking Code:</strong> #41776892152 | <strong>Voucher:</strong> RFC260422KNW1</p>
+            <p><strong>Contact:</strong> reservations@rockyfastcruise.com | WhatsApp: +62 813-3909-9963</p>
+            <div class="tip"><strong>💡 Important:</strong> Be ready for villa pickup at 11:30 AM. Confirm Ubud drop-off time (TBA) with Rocky Fast Cruise closer to date.</div>
+        </div>
+    </div>
+
+    <div class="subsection">
+        <h4>Day-by-Day</h4>
+        <div class="card">
+            <strong>📅 June 21 — Arrival Day</strong>
+            <ul>
+                <li><strong>2:40 PM</strong> — Arrive villa, settle in, pool time</li>
+                <li><strong>4:30 PM</strong> — Bike/scooter to Dream Beach</li>
+                <li><strong>5:30 PM</strong> — Sunset at Devil's Tears</li>
+                <li><strong>6:30 PM</strong> — Cocktails at Ombak Café</li>
+                <li><strong>8:00 PM</strong> — Dinner at Deck Café & Bar</li>
+            </ul>
+        </div>
+        <div class="card">
+            <strong>📅 June 22 — Full Island Day</strong>
+            <ul>
+                <li><strong>7:30 AM</strong> — Sunrise walk or villa yoga</li>
+                <li><strong>9:00 AM</strong> — Breakfast at villa</li>
+                <li><strong>10:00 AM</strong> — Island loop: Dream Beach → Secret Point → Yellow Bridge</li>
+                <li><strong>12:30 PM</strong> — Lunch + lounging at Sandy Bay Beach Club</li>
+                <li><strong>5:00 PM</strong> — Return to villa, freshen up</li>
+                <li><strong>6:30 PM</strong> — Ohana's Beach Club for sunset drinks + live music</li>
+                <li><strong>8:30 PM</strong> — Dinner at Tigerlillys or villa</li>
+            </ul>
+        </div>
+        <div class="card">
+            <strong>📅 June 23 — Checkout → Ubud</strong>
+            <ul>
+                <li><strong>7:00 AM</strong> — Final swim or sunrise walk</li>
+                <li><strong>8:30 AM</strong> — Breakfast</li>
+                <li><strong>9:45 AM</strong> — Checkout, pack up</li>
+                <li><strong>11:30 AM</strong> — Rocky Fast Cruise pickup from villa</li>
+                <li><strong>1:00 PM</strong> — Fast boat departs Lembongan → Sanur</li>
+                <li><strong>1:40 PM</strong> — Arrive Sanur, transfer to Ubud (~1.5 hrs)</li>
+                <li><strong>3:30 PM</strong> — Arrive Suara Alam Ubud</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="subsection">
+        <h4>Things to Do</h4>
+        <div class="card">
+            <ul>
+                <li><strong>🌊 Devil's Tears</strong> — Dramatic cliffs, best at sunset (5:30–6:30 PM)</li>
+                <li><strong>🏖️ Dream Beach</strong> — White sand cove, arrive before 11 AM</li>
+                <li><strong>📸 Secret Point Beach</strong> — Hidden gem with unique rock formations</li>
+                <li><strong>🚴 Island Loop</strong> — Rent bike/scooter through villa (~$5–10/day)</li>
+                <li><strong>☀️ Sandy Bay Beach Club</strong> — Infinity pool, elevated cuisine, golden hour</li>
+                <li><strong>🎶 Ohana's Beach Club</strong> — Sunset live music, laid-back vibes</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="subsection">
+        <h4>Where to Eat</h4>
+        <div class="card">
+            <ul>
+                <li><strong>🌮 Ombak Café</strong> — Sunset cocktails post Devil's Tears</li>
+                <li><strong>🍕 Deck Café & Bar</strong> — Pizzas, burgers, beachfront</li>
+                <li><strong>🥗 Tigerlillys</strong> — Healthy bowls, smoothies</li>
+                <li><strong>🌴 Warung Sunrise</strong> — Authentic, affordable local food</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<!-- UBUD -->
+<div class="section">
+    <div class="section-header"><h2>🌿 UBUD | June 23–26</h2></div>
+    <div class="location-info">
+        <h3>Suara Alam Ubud Villa by Ini Vie Hospitality</h3>
+        <p><strong>Check-in:</strong> Tuesday, June 23, 3:00 PM | <strong>Check-out:</strong> Friday, June 26, 11:00 AM</p>
+        <p><strong>Room:</strong> Jungle Room with Pool & Bathtub, 1 King | 3 nights</p>
+        <p><strong>Address:</strong> Jl. Tirta Tawar No.88, Petulu, Kecamatan Ubud, Gianyar, Bali 80571</p>
+        <p><strong>Phone:</strong> +62 811-3960-7258</p>
+                    <p><strong>Transport:</strong> Villa driver confirmed June 24 ✅ | Bali Made Private Car Charter confirmed June 26 ✅ | Grab & Gojek for shorter independent trips</p>
+    </div>
+
+    <div class="subsection">
+        <h4>Day-by-Day</h4>
+
+        <div class="card">
+            <strong>📅 June 23 — Self Care & Arrival Day at Bambu Indah</strong>
+            <p class="note">Arriving from Lembongan — pools, sunset bar and dinner all at one magical property.</p>
+            <ul>
+                <li><strong>~2:00 PM</strong> — Arrive villa, quick freshen up, drop bags</li>
+                <li><strong>2:30 PM</strong> — 🚗 <strong>Grab or Gojek</strong> to Bambu Indah (~15 min) — book a few minutes before you're ready to leave</li>
+                <li><strong>3:00–5:30 PM</strong> — 🌿 <strong>Bambu Indah Day Pass</strong><br>
+                    Spring-fed natural pools, hidden Crystal Pool, mud bath, ice bath and wood-fired sauna. IDR 500,000 F&B credit per person at River Warung.<br>
+                    From IDR 700,000/person + 21% tax | bambuindah.com or Klook — book ahead!</li>
+                <li><strong>5:30 PM</strong> — 🛗 <strong>Elevator Sunset Bar — BOOKED ✅</strong><br>
+                    World's only bamboo elevator up to clifftop bar. Organic cocktails, Sayan Valley rice field views at golden hour.<br>
+                    Reservation: 5:30 PM | Jl. Baung, Sayan, Ubud</li>
+                <li><strong>7:00 PM</strong> — 🍽️ <strong>Tembaga Restaurant — BOOKED ✅</strong><br>
+                    Bambu Indah's on-site signature restaurant — walk straight from Elevator Bar. Open-air barn of bamboo, copper and stone. Live-fire grill, anti-inflammatory menu.<br>
+                    Dinner reservation: 7:00 PM | WhatsApp: +62 811-5320-0100</li>
+                <li><strong>9:00 PM</strong> — 🚗 Grab or Gojek back to villa — early night, adventure day tomorrow!</li>
+            </ul>
+            <div class="tip"><strong>💡 Note:</strong> Entire evening flows seamlessly at one property — pools → elevator bar → dinner. Grab/Gojek for transport to and from Bambu Indah.</div>
+        </div>
+
+        <div class="card">
+            <strong>📅 June 24 — Compact Adventure Day (Full Day with Villa Driver)</strong>
+            <p class="note">Kumulilir Coffee → Manuaba Waterfall → Tegallalang Rice Terraces → Pura Mengening → OMMA. Everything in the Tegallalang corridor — under 1.5 hours total driving.</p>
+            <ul>
+                <li><strong>9:00 AM</strong> — Depart villa with villa driver</li>
+                <li><strong>9:20 AM</strong> — ☕ <strong>Kumulilir Coffee Plantation</strong><br>
+                    Under-the-radar Luwak coffee plantation 9km north of Ubud. Guided coffee tour, tasting flight, jungle swing and views.<br>
+                    Free entry | Luwak coffee ~50K IDR | Book ahead: kumulilir.id | ~45 min</li>
+                <li><strong>10:15 AM</strong> — Drive to Manuaba Waterfall (~10 min)</li>
+                <li><strong>10:30 AM</strong> — 💦 <strong>Manuaba Waterfall</strong><br>
+                    Hidden "2-in-1" waterfall — two falls connected by a 30-min hike through rice fields and jungle. Swim at the second fall.<br>
+                    Entry: ~20K IDR | Water shoes essential | ~75 min</li>
+                <li><strong>12:00 PM</strong> — Drive to Tegallalang (~10 min)</li>
+                <li><strong>12:15 PM</strong> — 🌾 <strong>Tegallalang Rice Terraces</strong><br>
+                    Iconic terraces — walk the paddies, swing photos, soak it all in.<br>
+                    Entry: ~25K IDR | ~60 min</li>
+                <li><strong>1:30 PM</strong> — 🍽️ Lunch at a warung on the Tegallalang terraces | ~$5-8 USD | ~45 min</li>
+                <li><strong>2:30 PM</strong> — Drive to Pura Mengening (~20 min)</li>
+                <li><strong>3:00 PM</strong> — 🛕 <strong>Pura Mengening</strong><br>
+                    Ancient 10th-century sacred spring temple — original source of Bali's holy water. Virtually no tourists. Afternoon golden light and local evening prayers make this truly intimate.<br>
+                    Sarong required | Driver can stop for offerings (~20K IDR) | Entry: ~20K IDR | ~60 min</li>
+                <li><strong>4:15 PM</strong> — Drive to OMMA (~20 min)</li>
+                <li><strong>4:30 PM</strong> — 🎶 <strong>OMMA Dayclub — ⚠️ BOOK DAYBED</strong><br>
+                    Golden hour through sunset — pool, music, cocktails. Stay until 7:00–7:30 PM.<br>
+                    Book standalone Daybed at tablecheck.com/en/ommabali/reserve | IDR 3M minimum (IDR 2.7M returned as F&B credit) | ommabali.com</li>
+                <li><strong>7:30 PM</strong> — 🍽️ Dinner at <strong>OMMA Dayclub restaurant</strong><br>
+                    Stay on for dinner — Balinese Grilled Chicken Betutu, Babi Guling, Satay Lilit, Nasi Campur and an Indonesian cultural set meal featuring dishes from across the archipelago. F&B credit covers dinner so no extra cost!<br>
+                    Last order at 8:00 PM | Closes 9:00 PM</li>
+                <li><strong>9:00 PM</strong> — 🚗 Gojek or Grab back to villa (~20 min)</li>
+            </ul>
+            <div class="tip"><strong>💡 Pack:</strong> Sarong (Pura Mengening), water shoes (Manuaba), dry bag, swimwear under clothes for OMMA.</div>
+        </div>
+
+        <div class="card">
+            <strong>📅 June 25 — Easy Relaxation Day (Caitlyn, Al & Brie)</strong>
+            <p class="note">Gentle flowing day anchored around 12:00 PM spa — yoga, ridge walk, spa, lunch, villa downtime, Cretya Sunset.</p>
+            <ul>
+                <li><strong>7:00 AM</strong> — 🧘 <strong>Taksu Yoga</strong> — on Jl. Tirta Tawar, same road as villa. Walk or 2-min Grab/Gojek.<br>
+                    WhatsApp: +62 361-479-5713 | ~$15 USD each | Confirm 7 AM class ahead</li>
+                <li><strong>8:15 AM</strong> — Quick breakfast at villa</li>
+                <li><strong>9:15 AM</strong> — Villa driver drops at Campuhan Ridge Walk trailhead</li>
+                <li><strong>9:20 AM</strong> — 🌊 <strong>Tjampuhan Old Bridge</strong> — sacred confluence of Wos and Cerik Rivers. Beautiful photo spot. Free.</li>
+                <li><strong>9:30 AM</strong> — 🛕 <strong>Pura Gunung Lebah</strong> — detailed stone carvings along rear temple walls. Free.</li>
+                <li><strong>9:45 AM</strong> — 🌄 Begin <strong>Campuhan Ridge Walk</strong> — peaceful 2km path through jungle and grasslands. Cool morning air, virtually no crowds. Free | ~45 min</li>
+                <li><strong>10:15 AM</strong> — 🌿 <strong>Bangkiang Sidem Village</strong> — quiet traditional village at trail end. Short wander.</li>
+                <li><strong>10:25 AM</strong> — ☕ <strong>Karsa Kafe</strong> — coffee with ridge views before turning back.</li>
+                <li><strong>10:50 AM</strong> — Walk back to trailhead</li>
+                <li><strong>11:15 AM</strong> — Arrive Tjampuhan Spa, check in</li>
+                <li><strong>12:00 PM</strong> — 💆 <strong>Tjampuhan Spa — BOOKED ✅</strong><br>
+                    Spa Beauty Package for Couple + 1 pax (Brie)<br>
+                    • 1-hour body massage • Body scrub • Yoghurt rub • Flower bath • Half-day spa facility access<br>
+                    Date/Time: Thursday June 25 | 12:00–2:00 PM | Reference: ACT.zplie6tf<br>
+                    Guests: Caitlyn, Al & Brie | Paid: IDR 1,720,000 (non-refundable)<br>
+                    Jl. Raya Tjampuhan PO Box 198 | +62-361-975368 | reservation@tjampuhan-bali.com</li>
+                <li><strong>2:00 PM</strong> — 🍽️ Lunch at warung near Tjampuhan</li>
+                <li><strong>3:00 PM</strong> — 🚗 Grab or Gojek back to villa — pool, nap, unscheduled time. Brie joins.</li>
+                <li><strong>4:00 PM</strong> — 🚗 Grab or Gojek takes Caitlyn, Al & Brie to Cretya Sunset (~20–25 min)</li>
+                <li><strong>4:30 PM</strong> — 🌅 <strong>Cretya Sunset Jacuzzi Day Club — BOOKED ✅</strong><br>
+                    Bali's first Jacuzzi Tower, infinity pools, rice field views. DJ set 4:00–7:00 PM — June 25 is Thursday, music through golden hour and sunset (~6:15–6:30 PM).<br>
+                    Booking: 3 tickets (Caitlyn, Al & Brie) | Jacuzzi Daybed reserved | Entry: 4:30 PM<br>
+                    Jl. Raya Bresela No.8, Payangan | WhatsApp: +62 853-3723-0775</li>
+                <li><strong>7:00 PM</strong> — Dinner at Cretya Sunset top floor OR 🚗 Grab/Gojek back to Ubud for Warung Biah Biah or Clear Café</li>
+                <li><strong>9:00 PM</strong> — 🚗 Grab or Gojek back to villa. Early night — checkout day tomorrow.</li>
+            </ul>
+            <div class="tip"><strong>💡 Key timing:</strong> Ridge walk finishes ~10:50 AM giving comfortable buffer before 12:00 PM spa. Grab/Gojek used throughout the day for flexibility.</div>
+        </div>
+
+        <div class="card">
+            <strong>📅 June 26 — Slow Morning, Checkout & Transfer to Nusa Dua (Caitlyn, Al & Brie)</strong>
+            <p class="note">Relaxed final Ubud morning — Sacred Monkey Forest, Sukawati Art Market, then on to the wedding.</p>
+            <ul>
+                <li><strong>8:00 AM</strong> — Leisurely villa breakfast, no rush</li>
+                <li><strong>9:00 AM</strong> — Villa pool or quiet coffee on terrace</li>
+                <li><strong>10:30 AM</strong> — Checkout (by 11 AM)</li>
+                <li><strong>11:00 AM</strong> — 🐒 <strong>Sacred Monkey Forest</strong><br>
+                    Iconic Hindu temple complex in heart of Ubud. Long-tailed macaques roam freely among ancient moss-covered temples.<br>
+                    Jl. Monkey Forest, Ubud | Entry: ~100K IDR | ~45 min | No loose jewelry, sunglasses or food!</li>
+                <li><strong>12:00 PM</strong> — 🏺 <strong>Sukawati Art Market</strong><br>
+                    Authentic batik, sarongs, wood carvings and silver at real local prices — far cheaper than Ubud Art Market.<br>
+                    Sukawati, Gianyar | Free entry | ~30 min | Bring cash — bargain at 40-50% of asking price</li>
+                <li><strong>1:00 PM</strong> — 🍽️ Lunch en route — Babi Guling Pak Malen in Gianyar or café in Sanur</li>
+                <li><strong>2:00 PM</strong> — Continue south to Nusa Dua (~45 min)</li>
+                <li><strong>3:00 PM</strong> — Check in at Sofitel Nusa Dua 💍</li>
+            </ul>
+            <div class="tip"><strong>💡 Sukawati tip:</strong> Bring cash — you can often get 40-50% off the first asking price. Great for sarongs, batik, wood carvings and last-minute gifts.</div>
+        </div>
+    </div>
+
+    <div class="subsection">
+        <h4>🍽️ Warungs Within Walking Distance of Villa</h4>
+        <p style="margin-bottom:10px; color:#666; font-style:italic;">All on or immediately off Jl. Tirta Tawar — your street.</p>
+        <div class="card">
+            <strong>⭐ Nasi Ayam Kedewatan Ibu Mangku</strong>
+            <p>Jl. Tirta Tawar, Petulu | Open since 1970 — a genuine Ubud institution</p>
+            <p>Nasi Ayam (Balinese chicken rice) with sambal, egg, vegetables, peanuts and satay lilit. Special IDR 35K | Regular IDR 30K | Vegetarian IDR 25K</p>
+            <p>💡 <em>Must-try — on your road, same iconic recipe for 50+ years</em></p>
+        </div>
+        <div class="card">
+            <strong>⭐ Warung at Jl. Tirta Tawar No.6</strong>
+            <p>Amazing fresh fruit juices, eco-friendly, welcoming family. Great for breakfast or lunch.</p>
+        </div>
+        <div class="card">
+            <strong>⭐ Vegan Warung at Jl. Tirta Tawar No.45</strong>
+            <p>Possibly the best vegan warung on the island — Balinese-influenced dishes, huge portions. Worth visiting even if you're not vegan.</p>
+        </div>
+        <div class="card">
+            <strong>Satay Warung — Jl. Jero Gadung No.79, Petulu</strong>
+            <p>Best satay in Ubud, set among the rice paddies. Family-run, generous portions.</p>
+        </div>
+        <div class="card">
+            <strong>Cakrasari — Jl. Tirta Tawar, Junjungan</strong>
+            <p>+62 361 9000653 | Beloved local spot on your street for a relaxed casual meal.</p>
+        </div>
+    </div>
+
+    <div class="subsection">
+        <h4>Ubud Contacts & Bookings</h4>
+        <div class="card">
+            <strong>🚗 Villa Driver — June 24 CONFIRMED ✅</strong>
+            <p>Full adventure day via Suara Alam Ubud Villa | +62 811-3960-7258</p>
+        </div>
+        <div class="card">
+            <strong>🚗 Bali Made Private Car Charter — June 26 CONFIRMED ✅</strong>
+            <p><strong>Service:</strong> 6-hour Private Car Charter | English-speaking driver | Group of 1–3</p>
+            <p><strong>Date:</strong> Friday, June 26, 2026 | <strong>Pickup:</strong> 10:45 AM</p>
+            <p><strong>Pickup Address:</strong> Jl. Tirta Tawar No.88, Petulu, Kecamatan Ubud, Gianyar, Bali 80571</p>
+            <p><strong>Drop-off:</strong> ITDC Tourism Complex, Jl. Nusa Dua Lot N5, Benoa, South Kuta (Sofitel Nusa Dua)</p>
+            <p><strong>Planned Stops:</strong> Sacred Monkey Forest, Sukawati Art Market, food stop en route</p>
+            <p><strong>Booking Reference:</strong> NZT787401 | <strong>Voucher:</strong> KLK3997009330</p>
+            <p><strong>Operator — Bali Made:</strong> Tel: +62-812-3754-0199 | WhatsApp: +62-812-3754-0199 | booking@bali-dmc.com</p>
+            <p><strong>Included:</strong> English-speaking driver, fuel, insurance, hotel pickup & drop-off</p>
+            <p><strong>Not included:</strong> Admission fees, toll fees, parking, tips (payable to driver)</p>
+            <div class="tip"><strong>💡 Important:</strong> Be in hotel lobby 10 min before 10:45 AM pickup. Driver will hold a sign with your name. Driver waits up to 30 min — don't be late! Additional hours: IDR 50,000/hr if needed.</div>
+        </div>
+        <div class="card">
+            <strong>Bambu Indah / Tembaga / Elevator Bar</strong>
+            <p>bambuindah.com | WhatsApp: +62 811-5320-0100 | Jl. Baung, Sayan, Ubud</p>
+        </div>
+        <div class="card">
+            <strong>Tjampuhan Spa — BOOKED ✅</strong>
+            <p>Reference: ACT.zplie6tf | June 25, 12:00–2:00 PM | Caitlyn, Al & Brie</p>
+            <p>+62-361-975368 | reservation@tjampuhan-bali.com</p>
+        </div>
+        <div class="card">
+            <strong>Cretya Sunset — BOOKED ✅</strong>
+            <p>3 tickets + Jacuzzi Daybed | June 25, 4:30 PM | Caitlyn, Al & Brie</p>
+            <p>Jl. Raya Bresela No.8, Payangan | WhatsApp: +62 853-3723-0775</p>
+        </div>
+        <div class="card">
+            <strong>Taksu Yoga</strong>
+            <p>Jl. Tirta Tawar | WhatsApp: +62 361-479-5713 | Confirm 7 AM class for June 25</p>
+        </div>
+        <div class="card">
+            <strong>Locavore Restaurant</strong>
+            <p>locavore.co.id | Book now for June 24 dinner</p>
+        </div>
+        <div class="card">
+            <strong>Kumulilir Coffee Plantation</strong>
+            <p>kumulilir.id | Book ahead for 9:20 AM arrival June 24</p>
+        </div>
+    </div>
+</div>
+
+<!-- NUSA DUA -->
+<div class="section">
+    <div class="section-header"><h2>💍 NUSA DUA (WEDDING) | June 26–30</h2></div>
+    <div class="location-info">
+        <h3>Sofitel Bali Nusa Dua Beach Resort</h3>
+        <p><strong>Check-in:</strong> Friday, June 26, 3:00 PM | <strong>Check-out:</strong> Tuesday, June 30, 11:00 AM</p>
+        <p><strong>Room:</strong> Luxury Room, 1 King Size Bed, Plunge Pool | 4 nights | 2 guests</p>
+        <p><strong>Reservation:</strong> 697643cff288dca3d03a</p>
+        <p><strong>Event:</strong> Wedding of Mili & Shivang</p>
+        <p><strong>Contact:</strong> h9078@sofitel.com | +62 6236184928883</p>
+        <p><strong>Transport:</strong> Grab or Gojek recommended for local trips | Hotel concierge for airport transfer</p>
+    </div>
+
+    <div class="subsection">
+        <h4>Wedding Schedule</h4>
+        <div class="card">
+            <ul>
+                <li><strong>June 26–28:</strong> Wedding festivities (confirm timeline with Mili & Shivang)</li>
+                <li><strong>June 29–30:</strong> Free time — relax, spa, beach</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="subsection">
+        <h4>Things to Do on Free Days</h4>
+        <div class="card">
+            <ul>
+                <li><strong>🧘 SoSPA</strong> — "So Indulgent" package | Book via h9078@sofitel.com for June 29</li>
+                <li><strong>🏖️ Manarai Beach House</strong> — On-site beach club, sunset cocktails, occasional DJs</li>
+                <li><strong>🛍️ Bali Collection</strong> — Outdoor shopping, boutiques, duty-free (5-min walk)</li>
+                <li><strong>🌅 Uluwatu Temple & Kecak Dance</strong> — Clifftop sunset + traditional fire dance | Book through concierge</li>
+                <li><strong>🏄 Water Sports at Tanjung Benoa</strong> — Jet ski, parasailing, banana boat (10 min away)</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="subsection">
+        <h4>Optional Farewell Night — June 29</h4>
+        <div class="card">
+            <strong>Plan A: Seminyak Club Crawl (~40 min from Sofitel)</strong>
+            <ul>
+                <li>5:00 PM — Potato Head Beach Club (sunset + dinner)</li>
+                <li>9:00 PM — La Favela (eclectic jungle-themed club)</li>
+                <li>11:00 PM — Mirror Lounge & Club (house music)</li>
+            </ul>
+            <div class="tip"><strong>🚗 Transport:</strong> Grab or Gojek (~350–400K IDR each way) or hotel concierge</div>
+        </div>
+        <div class="card">
+            <strong>Plan B: Chill Farewell</strong>
+            <p>Sunset cocktails at Manarai Beach House with live music + beachfront dinner at Sofitel</p>
+        </div>
+    </div>
+</div>
+
+<!-- HONG KONG -->
+<div class="section">
+    <div class="section-header"><h2>🏙️ HONG KONG LAYOVER | June 30 – July 1</h2></div>
+    <div class="location-info">
+        <h3>Four Points by Sheraton Hong Kong, Tung Chung</h3>
+        <p><strong>Check-in:</strong> Tuesday, June 30, 3:00 PM | <strong>Check-out:</strong> Wednesday, July 1, 11:00 AM</p>
+        <p><strong>Room:</strong> Traditional Room, 1 King Bed, City View | 1 night | 2 guests</p>
+        <p><strong>Trip ID:</strong> 1016370742 | <strong>Confirmation:</strong> 2441052074</p>
+        <p><strong>Address:</strong> 9 Yi Tung Road, Tung Chung, Lantau Island, Hong Kong</p>
+    </div>
+
+    <div class="subsection">
+        <h4>Getting Around Hong Kong</h4>
+        <div class="card">
+            <strong>🚇 Octopus Card — Get This First!</strong>
+            <p>Pick up at Tung Chung MTR station — works on all MTR trains, buses, ferries, trams, plus convenience stores. Tap-and-go, no need for cash or individual tickets. Refundable deposit when you return it.</p>
+            <p><strong>Tung Chung → Central (Hong Kong Island):</strong> MTR Tung Chung Line | ~30 min | ~HK$20</p>
+            <p><strong>Star Ferry (Central → Tsim Sha Tsui):</strong> ~8 min | ~HK$3 | One of the most iconic rides in Asia</p>
+            <p><strong>Tai O Alternative:</strong> Bus 11 from Tung Chung | ~30 min | Stays on Lantau Island — easy and relaxed</p>
+        </div>
+    </div>
+
+    <div class="subsection">
+        <h4>⏰ Your Timing Window</h4>
+        <div class="card">
+            <p>Flight departs <strong>7:10 PM on July 1</strong> — be at airport by <strong>4:30–5:00 PM</strong> at the latest.</p>
+            <p>After hotel checkout at 11:00 AM you have a solid <strong>9:00 AM–3:30 PM</strong> window to explore.</p>
+            <p>Tung Chung → Central: ~30 min | Central → Tung Chung: ~30 min | Allow 30 min to get from hotel to airport.</p>
+        </div>
+    </div>
+
+    <div class="subsection">
+        <h4>Option A — Hong Kong Island & Kowloon</h4>
+        <div class="card">
+            <p class="note">Best for iconic city sights — skyline, harbour, Peak views and local food.</p>
+            <ul>
+                <li><strong>9:00 AM</strong> — Checkout hotel, grab Octopus Card, MTR to Central (~30 min)</li>
+                <li><strong>9:30 AM</strong> — 🥟 Dim sum breakfast at Tim Ho Wan or local cha chaan teng in Sheung Wan</li>
+                <li><strong>10:30 AM</strong> — 🚠 <strong>Victoria Peak</strong> — take the historic Peak Tram funicular up. Stunning 180-degree views over Victoria Harbour, Kowloon and the surrounding hills. Best in the morning before heat and haze. ~1.5 hours | Book tram tickets in advance online to skip queues!</li>
+                <li><strong>12:00 PM</strong> — ⛴️ <strong>Star Ferry</strong> — cross Victoria Harbour to Tsim Sha Tsui (Kowloon). One of the 50 must-visit experiences in a lifetime. Only HK$3, takes 8 minutes, incredible skyline views.</li>
+                <li><strong>12:30 PM</strong> — Stroll the <strong>Tsim Sha Tsui waterfront promenade</strong> — Avenue of Stars, harbour views, iconic skyline photography</li>
+                <li><strong>1:00 PM</strong> — 🍜 Lunch in Tsim Sha Tsui — dim sum or Cantonese noodles at a local spot</li>
+                <li><strong>2:00 PM</strong> — MTR back to Tung Chung (~35 min)</li>
+                <li><strong>2:45 PM</strong> — Collect luggage at hotel</li>
+                <li><strong>3:30 PM</strong> — Head to airport for CX 812 (departs 7:10 PM)</li>
+            </ul>
+            <div class="tip"><strong>💡 Tips:</strong> Dress light — late June/July is hot and humid in HK. Book Peak Tram online in advance, queues can be very long without a reservation. Octopus Card covers all transport seamlessly.</div>
+        </div>
+    </div>
+
+    <div class="subsection">
+        <h4>Option B — Tai O Fishing Village (Stay Local on Lantau)</h4>
+        <div class="card">
+            <p class="note">If you'd rather keep it easy without the MTR — one of Hong Kong's most authentic and charming experiences, right on your island.</p>
+            <ul>
+                <li><strong>9:00 AM</strong> — Checkout hotel, take Bus 11 from Tung Chung to Tai O (~30 min)</li>
+                <li><strong>9:30 AM</strong> — 🏘️ <strong>Tai O Fishing Village</strong> — ancient stilt house fishing village, one of Hong Kong's most authentic spots. Salt fish markets, small temples, local seafood, traditional boat tours through the stilt house channels. ~2.5 hours</li>
+                <li><strong>10:00 AM</strong> — 🦐 Local seafood breakfast or early lunch at a Tai O waterfront restaurant</li>
+                <li><strong>12:00 PM</strong> — Bus 11 back to Tung Chung (~30 min)</li>
+                <li><strong>12:30 PM</strong> — Collect luggage at hotel, relax at Citygate Outlets</li>
+                <li><strong>3:30 PM</strong> — Head to airport for CX 812 (departs 7:10 PM)</li>
+            </ul>
+            <div class="tip"><strong>💡 Why Tai O:</strong> No MTR stress, completely authentic, totally different from the urban core. Perfect if you're tired after Bali and want a relaxed final morning.</div>
+        </div>
+    </div>
+
+    <div class="subsection">
+        <h4>Suggested Timeline</h4>
+        <div class="card">
+            <strong>📅 June 30 — Arrive Hong Kong</strong>
+            <ul>
+                <li><strong>3:00 PM</strong> — Check in, rest, explore Citygate Outlets (adjacent to hotel)</li>
+                <li><strong>6:00 PM</strong> — 🥟 Dim sum dinner at Tim Ho Wan (Michelin-starred, affordable) or Tung Chung local restaurants</li>
+                <li><strong>8:00 PM</strong> — Early night before long flight home</li>
+            </ul>
+        </div>
+        <div class="card">
+            <strong>📅 July 1 — Final Day</strong>
+            <ul>
+                <li><strong>8:00 AM</strong> — Breakfast at hotel or Citygate</li>
+                <li><strong>9:00 AM</strong> — Choose Option A (Hong Kong Island) or Option B (Tai O Village)</li>
+                <li><strong>3:30 PM</strong> — Head to airport | CX 812 departs 7:10 PM | Arrive BOS 11:05 PM</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<!-- RETURN FLIGHTS -->
+<div class="section">
+    <div class="section-header"><h2>✈️ Return Flights</h2></div>
+    <div class="flight-box">
+        <h4>Tuesday, June 30 – Bali to Hong Kong</h4>
+        <p><strong>CX 784</strong> | Departs DPS: 4:15 PM | Arrives HKG: 9:25 PM</p>
+        <p><strong>Booking Reference:</strong> FCN6Y8</p>
+        <div class="tip"><strong>🚗 Leave Sofitel by 12:30 PM</strong> — arrive airport 2+ hours early | Grab, Gojek or hotel concierge transfer</div>
+    </div>
+    <div class="flight-box">
+        <h4>Wednesday, July 1 – Hong Kong to Boston</h4>
+        <p><strong>CX 812</strong> | Departs HKG: 7:10 PM | Arrives BOS: 11:05 PM (same day)</p>
+        <p><strong>Booking Reference:</strong> FCN6Y8</p>
+        <div class="tip"><strong>🕐 Full-day layover</strong> — relax at hotel until 3:00 PM checkout</div>
+    </div>
+</div>
+
+<!-- MASTER CONTACTS -->
+<div class="section">
+    <div class="section-header"><h2>📇 Master Contacts</h2></div>
+
+    <div class="subsection">
+        <h4>Accommodations</h4>
+        <div class="card">
+            <ul>
+                <li><strong>Maison Aurelia Sanur</strong> — Conf: 2374834466 | +62 361 4721111</li>
+                <li><strong>Villa Sayang, Lembongan</strong> — WhatsApp: +62 812-3956-7070</li>
+                <li><strong>Suara Alam Ubud</strong> — +62 811-3960-7258 | Jl. Tirta Tawar No.88</li>
+                <li><strong>Sofitel Nusa Dua</strong> — h9078@sofitel.com | +62 6236184928883 | Res: 697643cff288dca3d03a</li>
+                <li><strong>Four Points Sheraton HK</strong> — Trip ID: 1016370742 | Conf: 2441052074 | 9 Yi Tung Road, Tung Chung</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="subsection">
+        <h4>Transportation</h4>
+        <div class="card">
+            <ul>
+                <li><strong>Rocky Fast Cruise</strong> — reservations@rockyfastcruise.com | WhatsApp: +62 813-3909-9963</li>
+                <li><strong>Komang (Lembongan driver)</strong> — WhatsApp: +62 819-3434-4420</li>
+                <li><strong>Ubud Villa Driver (June 24)</strong> — CONFIRMED ✅ via Suara Alam Ubud Villa | +62 811-3960-7258</li>
+                <li><strong>Bali Made Private Car Charter (June 26)</strong> — CONFIRMED ✅ | Ref: NZT787401 | Voucher: KLK3997009330 | WhatsApp: +62-812-3754-0199 | booking@bali-dmc.com</li>
+                <li><strong>Grab</strong> — Download app | Used throughout Bali for flexible short trips</li>
+                <li><strong>Gojek</strong> — Download app | Alternative to Grab, great for Ubud & Nusa Dua</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="subsection">
+        <h4>Experiences & Wellness</h4>
+        <div class="card">
+            <ul>
+                <li><strong>Koa Shala (Sanur) — BOOKED ✅</strong> — WhatsApp: +62 812-3946-0683 | June 20, 9 AM</li>
+                <li><strong>Bambu Indah / Tembaga / Elevator Bar — BOOKED ✅</strong> — WhatsApp: +62 811-5320-0100 | June 23</li>
+                <li><strong>Tjampuhan Spa — BOOKED ✅</strong> — +62-361-975368 | June 25, 12:00–2:00 PM | Ref: ACT.zplie6tf</li>
+                <li><strong>Cretya Sunset — BOOKED ✅</strong> — WhatsApp: +62 853-3723-0775 | June 25, 4:30 PM</li>
+                <li><strong>Taksu Yoga</strong> — WhatsApp: +62 361-479-5713 | Confirm June 25 at 7 AM</li>
+                <li><strong>OMMA Dayclub</strong> — ommabali.com | ⚠️ Book Daybed for June 24 at 4:30 PM | tablecheck.com/en/ommabali/reserve</li>
+                <li><strong>Kumulilir Coffee</strong> — kumulilir.id | Book for June 24 at 9:20 AM</li>
+                <li><strong>Locavore</strong> — locavore.co.id | Book for June 24 dinner</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<!-- PRO TIPS -->
+<div class="section">
+    <div class="section-header"><h2>💡 Pro Tips & Essentials</h2></div>
+    <div class="card">
+        <strong>What to Pack</strong>
+        <ul>
+            <li>☀️ Reef-safe sunscreen (2-3 bottles)</li>
+            <li>🩴 Water shoes (Manuaba Waterfall, Devil's Tears)</li>
+            <li>🧣 Sarong for temple visits (Pura Mengening, Sacred Monkey Forest)</li>
+            <li>💊 Motion sickness meds (Dramamine for fast boats)</li>
+            <li>🔌 Universal adapter (Indonesia: Type C/F)</li>
+            <li>🎒 Small waterproof dry bag</li>
+            <li>🦟 Mosquito repellent (DEET 30%+ especially for Ubud)</li>
+            <li>💳 Money belt/travel pouch</li>
+            <li>🔋 Portable charger</li>
+        </ul>
+    </div>
+    <div class="card">
+        <strong>Money & Apps</strong>
+        <ul>
+            <li>Notify banks of travel: June 18 – July 1 | Hong Kong + Indonesia</li>
+            <li>Withdraw $200–300 USD cash (clean bills)</li>
+            <li>Daily budget: ~$50–80 USD/person outside hotels</li>
+            <li>📱 Download: Grab, Gojek, WhatsApp, Google Maps (offline Bali), XE Currency, Google Translate</li>
+        </ul>
+    </div>
+    <div class="card">
+        <strong>Cultural Etiquette</strong>
+        <ul>
+            <li>Remove shoes before entering homes and temples</li>
+            <li>Use right hand when giving or receiving items</li>
+            <li>Dress modestly at temples — sarong required</li>
+            <li>Smile and say "terima kasih" (thank you)</li>
+        </ul>
+    </div>
+</div>
+
+<div class="footer">
+    <h2 style="margin-bottom:15px;">Have an Amazing Journey! 🌴✨</h2>
+    <p style="font-size:1.1em;">June 18 – July 1, 2026 | Caitlyn & Al Richardson</p>
+</div>
+
+</body>
+</html>
